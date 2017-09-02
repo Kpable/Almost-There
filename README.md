@@ -11,6 +11,7 @@ Can Generate rooms  and hallways similarly to the tutorial, however its accompli
 
 ![House Generation](/images/almost-there-house-generation.gif)
 
-#### Remarks
-My interest in level generation is what led me to Unity3D's Roguelike tutorial and looking at it, I saw it as an opportunity to learn more about it by expanding the tutorial into generation of more than just rouge like maps. Scrolling through the abundance of free assets contributors provide this idea was born. This may be on hold as I pursue other interests, but it is not forgotten. 
+You can click away to your hearts content with a build [here](/builds/Almost_There_0.1/index.html).
 
+#### Remarks
+My interest in level generation is what led me to Unity3D's Roguelike tutorial and looking at it, I saw it as an opportunity to learn more about it by expanding the tutorial into generation of more than just roguelike dungeons. In scrolling through the abundance of free assets contributors provide, this idea was born. This may be on hold as I pursue other interests, but it is not forgotten. 
